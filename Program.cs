@@ -10,6 +10,11 @@ namespace mod7_1302204026
     {
         static void Main(string[] args)
         {
+            {
+                BankTransferConfig b = new BankTransferConfig();
+
+                b.ReadJSON();
+            }
         }
     }
 }

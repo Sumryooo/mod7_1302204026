@@ -1,0 +1,3 @@
+C:\Users\ASUS -TUF GAMING\source\repos\mod7_1302204026\obj\Debug\mod7_1302204026.csproj.AssemblyReference.cache
+C:\Users\ASUS -TUF GAMING\source\repos\mod7_1302204026\obj\Debug\mod7_1302204026.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS -TUF GAMING\source\repos\mod7_1302204026\obj\Debug\mod7_1302204026.csproj.CoreCompileInputs.cache
